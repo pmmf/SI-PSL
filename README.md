@@ -2,7 +2,9 @@
 Signer-Independent Portuguese Sign Language (SI-PSL) database
 
 ## Overview
+<p align="justify">
 The SI-PSL database was specially created for signer-independent evaluation purposes. It contains 31 isolated signs, representing the alphabet and the cardinal numbers 0 to 9 of the Portuguese sign language. All the signs were performed three times by a total of 11 native signers, in a free and natural signing environment, without any clothing restriction but with a slightly-controlled uniform background (see Figure below). Therefore, it clearly depicts the large inter-signer variability that exists in the manual signing process of sign languages. The proposed SI-PSL is made publicly available for benchmark purposes, in order to foster the signer-independent SLR research.
+</p>
 
 ![alt text](SI-PSL-samples.png
 
