@@ -7,7 +7,7 @@ The SI-PSL database was specially created for signer-independent evaluation purp
 ![alt text](SI-PSL-samples.png)
 
 ## Data and annotations
-They are 8-bit RGB color images with a resolution of 768x560 pixels. For image of the SI-PSL database 
+They are 8-bit RGB color images with a resolution of 640x480 pixels. For image of the SI-PSL database 
 
 ## Evaluation protocol
 The SI-PSL database has a well-defined standard evaluation protocol, which consists of 6 signers for training, 1 signer for validation and the remaining 4 signers are used for the test set.
