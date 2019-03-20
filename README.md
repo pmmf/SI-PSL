@@ -11,16 +11,27 @@ The SI-PSL database was specially created for signer-independent evaluation purp
 </p>
 
 ## Data and annotations
-They are 8-bit RGB color images with a resolution of 640x480 pixels. For image of the SI-PSL database 
+<p align="justify">
+The images of the SI-PSL are 8-bit RGB color images with a resolution of 640x480 pixels. Each image of the database has a corresponding annotation file with the bounding box coordinates of the hands. 
+</p>
 
 ## Evaluation protocol
-The SI-PSL database has a well-defined standard evaluation protocol, which consists of 6 signers for training, 1 signer for validation and the remaining 4 signers are used for the test set.
+<p align="justify">
+The SI-PSL database has a well-defined standard evaluation protocol, which consists of:
+</p>
+- 6 signers for training;
+- 1 signer for validation;
+- 4 signers foe test.
 
 
 ## Terms of use
+<p align="justify">
 The data included in the SI-PSL database can be used for research and educational purposes. It is important to note that redistribution and commercial use is not allowed. 
+</p>
 
+<p align="justify">
 All publications that make use of this dataset must cite the following paper:
+</p>
 
 ## Download
 - **Training set**:
