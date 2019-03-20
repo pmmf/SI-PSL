@@ -8,6 +8,6 @@ The SI-PSL database contains 31 isolated signs, representing the alphabet and th
 They are 8-bit RGB color images with a resolution of 768x560 pixels. For image of the SI-PSL database 
 
 ### Evaluation protocol
-The SI-PSL database has a well-defined standard evaluation protocol, which consists of 6 signers for training,1 signer for validation and the remaining 4 signers are used for the test set.
+The SI-PSL database has a well-defined standard evaluation protocol, which consists of 6 signers for training, 1 signer for validation and the remaining 4 signers are used for the test set.
 
 
