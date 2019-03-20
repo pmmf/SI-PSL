@@ -17,9 +17,9 @@ The data included in the SI-PSL database can be used for research and educationa
 All publications that make use of this dataset must cite the following paper:
 
 ### Download
-Training set:
-Validation set:
-Test set:
+- **Training set**:
+- **Validation set**:
+- **Test set**:
 
 
 
