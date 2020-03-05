@@ -33,10 +33,11 @@ The data included in the SI-PSL database can be used for research and educationa
 All publications that make use of this dataset must cite the following paper:
 </p>
 
-## Download
-- **Training set**:
-- **Validation set**:
-- **Test set**:
+## Get acess to the database
+
+The entire SI-PSL database is already freely available to the research community for benchmark purposes. 
+
+If you want to have acess to SI-PSL please send us an email to pmm@inesctec.pt
 
 
 
