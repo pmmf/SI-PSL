@@ -32,10 +32,9 @@ The data included in the SI-PSL database can be used for research and educationa
 <p align="justify">
 All publications that make use of this dataset must cite the following paper:
 </p>
-<p align="justify">
 P. M. Ferreira, D. Pernes, A. Rebelo and J. S. Cardoso, "**DeSIRe: Deep Signer-Invariant Representations for Sign Language Recognition,**" * *in IEEE Transactions on Systems, Man, and Cybernetics: Systems.* *
 doi: 10.1109/TSMC.2019.2957347
-</p>
+
 
 ## Get acess to the database
 <p align="justify">
